@@ -83,7 +83,6 @@ SQL Practice — W3Schools
 Window Functions Guide — Mode
 
 
-
 🏁 Conclusion
 
 This project demonstrates how SQL can transform raw transaction data into meaningful business insights. It highlights customer behavior, spending patterns, and the impact of loyalty programs — enabling data-driven business decisions.
